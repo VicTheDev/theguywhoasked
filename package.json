@@ -1,0 +1,14 @@
+{
+  "name": "theguywhoasked",
+  "version": "1.0.0",
+  "description": "I'm the guy who asked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vic",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
